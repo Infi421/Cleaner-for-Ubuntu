@@ -15,3 +15,7 @@
 # Display Disk Usage Before and After Cleanup.
 
 # Overall, the script is a comprehensive tool for maintaining a clean and optimized Linux system by removing unnecessary files, freeing up disk space, and ensuring the # system is up-to-date with security updates.
+
+# Commands:
+ chmod +x cleaner.h
+ sudo ./cleaner.h
